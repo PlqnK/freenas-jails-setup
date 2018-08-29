@@ -1,0 +1,10 @@
+# Global
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Project specific
+jails-setup.conf
+zfs-volumes-structure.txt
